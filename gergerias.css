@@ -1,1 +1,31 @@
 @charset "UTF-8";
+/*Desarrollado por:Diana*/
+/*Estilos generales*/
+body{
+    background-color: #2D8652;
+}
+h1{
+    text-transform: capitalize;
+    font-size: 400%;
+}
+p{
+    font-size: 200%;
+}
+/*Clases*/
+.resaltado{
+    color:#FFFFFF;
+    font-style: oblique;
+    font-family: serif;
+}
+.coloreado{
+    color:#FFDFB3;
+    font-family: sans-serif;
+}
+.remarcado{
+    color:#FF9F1A;
+    font-family: monospace;
+}
+.coloreado2{
+    color:#E6194D;
+    font-family: cursive;
+}
